@@ -1,0 +1,78 @@
+PODS:
+  - Alamofire (4.8.0)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Crashlytics (3.12.0):
+    - Fabric (~> 1.9.0)
+  - DatePickerDialog (2.0)
+  - DropDown (2.3.12)
+  - Fabric (1.9.0)
+  - ImageSlideshow (1.7.0):
+    - ImageSlideshow/Core (= 1.7.0)
+  - ImageSlideshow/Core (1.7.0)
+  - ImageSlideshow/SDWebImage (1.7.0):
+    - ImageSlideshow/Core
+    - SDWebImage (< 5.0, >= 3.7)
+  - L10n-swift (5.4.1):
+    - L10n-swift/Core (= 5.4.1)
+    - L10n-swift/Extension (= 5.4.1)
+    - L10n-swift/IBInspectable (= 5.4.1)
+  - L10n-swift/Core (5.4.1)
+  - L10n-swift/Extension (5.4.1):
+    - L10n-swift/Core
+  - L10n-swift/IBInspectable (5.4.1):
+    - L10n-swift/Core
+  - ObjectMapper (3.4.2)
+  - Pager (1.4.0)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+  - TTGSnackbar (1.7.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - Crashlytics
+  - DatePickerDialog
+  - DropDown
+  - Fabric
+  - ImageSlideshow
+  - ImageSlideshow/SDWebImage
+  - L10n-swift
+  - Pager
+  - SDWebImage
+  - TTGSnackbar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Crashlytics
+    - DatePickerDialog
+    - DropDown
+    - Fabric
+    - ImageSlideshow
+    - L10n-swift
+    - ObjectMapper
+    - Pager
+    - SDWebImage
+    - TTGSnackbar
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  Crashlytics: 07fb167b1694128c1c9a5a5cc319b0e9c3ca0933
+  DatePickerDialog: 5e1c24d9fe6506cd45dbc573eed7b0a251b1c09d
+  DropDown: 0bcc278799ec11a3d34ce1aac9367fbbaf5423d9
+  Fabric: f988e33c97f08930a413e08123064d2e5f68d655
+  ImageSlideshow: f8eec5e37a980f60923b585ff23b0e140fd24018
+  L10n-swift: 8d7edb9c113ac4859a27d6417b47a6bc6cdebf7c
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  Pager: c62090c63f0eae2642454a572e659a08347c599d
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+  TTGSnackbar: 2cf4e7b6ffbe5cddf248a73f3ee952b71bee8ea3
+
+PODFILE CHECKSUM: 8d8477fb4fb5db96fbbfd7d80f7fdde24eb18885
+
+COCOAPODS: 1.5.3
